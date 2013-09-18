@@ -1,2 +1,7 @@
 D:\TestTfs\testTFS\testTFS\bin\Debug\testTFS.exe.config
 C:\jays\testTFS\bin\Debug\testTFS.exe.config
+C:\jays\testTFS\bin\Debug\testTFS.exe
+C:\jays\testTFS\bin\Debug\testTFS.pdb
+C:\jays\testTFS\obj\Debug\testTFS.csprojResolveAssemblyReference.cache
+C:\jays\testTFS\obj\Debug\testTFS.exe
+C:\jays\testTFS\obj\Debug\testTFS.pdb
