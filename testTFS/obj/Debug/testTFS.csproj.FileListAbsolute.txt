@@ -1,1 +1,2 @@
 D:\TestTfs\testTFS\testTFS\bin\Debug\testTFS.exe.config
+C:\jays\testTFS\bin\Debug\testTFS.exe.config
